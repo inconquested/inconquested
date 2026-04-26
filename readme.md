@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 AI-driven learning specifically on fullstack web development and system design<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Three.js integration on NextJS app
+🔭 AI-driven learning specifically on fullstack web development and system design<br>🤝 I’m looking for help with learning AI/ML engineering from scratch<br>🌱 I’m currently learning Three.js integration on NextJS app, system design, and discrete mathematics
 
 
 ## 🌐 Socials:

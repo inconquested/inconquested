@@ -1,4 +1,8 @@
-![Header Image](./header.svg)
+
+
+https://github.com/user-attachments/assets/9797e10b-5400-478e-ac81-20786c7c9f92
+
+
 # 💫 About Me:
 🔭 AI-driven learning specifically on fullstack web development and system design<br>🤝 I’m looking for help with learning AI/ML engineering from scratch<br>🌱 I’m currently learning Three.js integration on NextJS app, system design, and discrete mathematics
 
